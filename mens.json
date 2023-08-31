@@ -1,0 +1,52 @@
+{
+    "players": [
+        {
+            "first_name": "kennedy",
+            "last_name": "andrews",
+            "number":"00",
+            "position":"guard",
+            "height":"5'10",
+            "year":"freshman",
+            "hometown":"Point Arthur, TX",
+            "highschool":"Legacy Christian HS"
+        },
+        {
+            "first_name": "asher",
+            "last_name": "nofziger",
+            "number":"1",
+            "position":"forward",
+            "height":"6'7",
+            "year":"freshman",
+            "hometown":"Denver, CO",
+            "highschool":"Cherry Creek HS"
+        },
+        {
+            "first_name": "dinari",
+            "last_name": "boykin",
+            "number":"2",
+            "position":"guard",
+            "height":"6'3",
+            "year":"freshman",
+            "hometown":"Los Angeles, CA",
+            "highschool":"Archbishop Curley HS"
+        },{
+            "first_name": "kyle",
+            "last_name": "lee",
+            "number":"3",
+            "position":"guard",
+            "height":"6'1",
+            "year":"freshman",
+            "hometown":"Point Arthur, TX",
+            "highschool":"Pacific Palisades HS"
+        },{
+            "first_name": "deante'",
+            "last_name": "dennis",
+            "number":"4",
+            "position":"guard",
+            "height":"6'0",
+            "year":"senior",
+            "hometown":"Denver, CO",
+            "highschool":"Colorado Academy"
+        }
+    ]
+}

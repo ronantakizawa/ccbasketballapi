@@ -1,0 +1,52 @@
+{
+    "players": [
+        {
+            "first_name": "ella",
+            "last_name": "lippelman",
+            "number":"0",
+            "position":"guard",
+            "height":"5'5",
+            "year":"sophomore",
+            "hometown":"Springfield, MO",
+            "highschool":"Springfield Catholic HS"
+        },
+        {
+            "first_name": "laura",
+            "last_name": "strenk",
+            "number":"3",
+            "position":"guard",
+            "height":"5'7",
+            "year":"sophomore",
+            "hometown":"Golf, IL",
+            "highschool":"Regina Dominican HS"
+        },
+        {
+            "first_name": "alex",
+            "last_name": "aronie",
+            "number":"4",
+            "position":"guard",
+            "height":"5'9",
+            "year":"freshman",
+            "hometown":"Bethesda, MD",
+            "highschool":"Walt Whitman HS"
+        },{
+            "first_name": "tedy",
+            "last_name": "reed",
+            "number":"10",
+            "position":"guard",
+            "height":"5'8",
+            "year":"senior",
+            "hometown":"Littleton, CO",
+            "highschool":"Chatfield Senior HS"
+        },{
+            "first_name": "andie",
+            "last_name": "will",
+            "number":"11",
+            "position":"guard",
+            "height":"6'0",
+            "year":"senior",
+            "hometown":"Arlington Heights, IL",
+            "highschool":"Prospect HS"
+        }
+    ]
+}
